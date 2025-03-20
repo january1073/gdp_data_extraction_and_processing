@@ -1,4 +1,4 @@
-# Extract data from a website using web scraping and request APIs process it using NumPy and Pandas libraries
+# Extract data from a website and request APIs process it using NumPy and Pandas libraries
 
 import numpy as np
 import pandas as pd
