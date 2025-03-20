@@ -1,4 +1,4 @@
-# Fetch and print a snippet from a website
+# Navigate through the HTML structure, find and print all anchor tags
 
 import requests
 from bs4 import BeautifulSoup
