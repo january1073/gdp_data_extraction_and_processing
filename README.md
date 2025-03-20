@@ -1,9 +1,10 @@
-# gdp_data_extraction_and_processing
+# web_scraping_with_python
 
-Extract data from a website using web scraping and request APIs process it using NumPy and Pandas libraries.
+Retrieve, parse, extract, transform, and store data from the web with Python.
 
 Required libraries:
+* BeautifulSoup
 * NumPy
 * Pandas
 
-Practice project as part of the IBM course “Python for Data Science, AI, & Development”.
+Practice projects as part of the IBM course “Python for Data Science, AI, & Development”.
