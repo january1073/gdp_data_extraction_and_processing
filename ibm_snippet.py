@@ -1,3 +1,5 @@
+# Fetch and print a snippet from a website
+
 import requests
 from bs4 import BeautifulSoup
 
