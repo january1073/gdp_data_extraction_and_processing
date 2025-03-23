@@ -1,4 +1,4 @@
-# web_scraping
+# web_scraping_with_python
 
 Retrieve, parse, extract, transform, and store data from the web with Python.
 
