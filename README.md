@@ -7,4 +7,4 @@ Required libraries:
 * Pandas
 * Requests
 
-Practice projects as part of the IBM course “Python for Data Science, AI, & Development”.
+(Practice projects as part of the IBM course “Python for Data Science, AI, & Development”.)
